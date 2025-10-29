@@ -140,8 +140,8 @@ const Index = () => {
               <div className="space-y-4 text-lg">
                 <div>
                   <p className="font-semibold text-primary mb-2">Email</p>
-                  <a href="mailto:info@traptech.com" className="text-muted-foreground hover:text-primary transition-colors">
-                    info@traptech.com
+                  <a href="mailto:traptech256@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                    traptech256@gmail.com
                   </a>
                 </div>
                 <div>
@@ -152,7 +152,7 @@ const Index = () => {
                 </div>
                 <div className="pt-4">
                   <Button variant="hero" size="lg" asChild>
-                    <a href="mailto:info@traptech.com">Send Message</a>
+                    <a href="mailto:traptech256@gmail.com">Send Message</a>
                   </Button>
                 </div>
               </div>
